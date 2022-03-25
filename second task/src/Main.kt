@@ -1,8 +1,8 @@
 fun main()
 {
-    val first  = Point(9,12);
-    val second  = Point(3,6);
-    val third = Point(9,12)
+    val first  = Point(10,13);
+    val second  = Point(5,8);
+    val third = Point(10,13)
     println(first.toString())
     println(first.equals(second))
     println(first.equals(third))
